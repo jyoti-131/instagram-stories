@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "username": "aurora.lens",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "timestamp": "2m ago"
+  },
+  {
+    "id": 2,
+    "username": "neon.drift",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "image": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=600&q=80",
+    "timestamp": "5m ago"
+  },
+  {
+    "id": 3,
+    "username": "solstice.m",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "image": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=600&q=80",
+    "timestamp": "12m ago"
+  },
+  {
+    "id": 4,
+    "username": "velvet.fox",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "image": "https://images.unsplash.com/photo-1682686581498-5e85c7228119?w=600&q=80",
+    "timestamp": "18m ago"
+  },
+  {
+    "id": 5,
+    "username": "prism.kai",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=600&q=80",
+    "timestamp": "25m ago"
+  },
+  {
+    "id": 6,
+    "username": "moth.era",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=600&q=80",
+    "timestamp": "33m ago"
+  },
+  {
+    "id": 7,
+    "username": "lux.tide",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600&q=80",
+    "timestamp": "41m ago"
+  },
+  {
+    "id": 8,
+    "username": "zephyr.io",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba?w=600&q=80",
+    "timestamp": "52m ago"
+  }
+]
